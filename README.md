@@ -1,1 +1,1 @@
-# B2B-Business-To-Business-
+# B2B (Business-To-Business)
